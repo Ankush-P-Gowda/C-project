@@ -1,0 +1,206 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<configurationDescriptor version="100">
+  <logicalFolder name="root" displayName="root" projectFiles="true" kind="ROOT">
+    <logicalFolder name="HeaderFiles"
+                   displayName="Header Files"
+                   projectFiles="true">
+    </logicalFolder>
+    <logicalFolder name="ResourceFiles"
+                   displayName="Resource Files"
+                   projectFiles="true">
+    </logicalFolder>
+    <logicalFolder name="SourceFiles"
+                   displayName="Source Files"
+                   projectFiles="true">
+      <itemPath>alpha A.cpp</itemPath>
+      <itemPath>alpha B.cpp</itemPath>
+      <itemPath>alpha C.cpp</itemPath>
+      <itemPath>alpha D.cpp</itemPath>
+      <itemPath>alpha E.cpp</itemPath>
+      <itemPath>alpha F.cpp</itemPath>
+      <itemPath>alpha G.cpp</itemPath>
+      <itemPath>alpha H.cpp</itemPath>
+      <itemPath>alpha I.cpp</itemPath>
+      <itemPath>alpha J.cpp</itemPath>
+      <itemPath>alpha K.cpp</itemPath>
+      <itemPath>alpha L.cpp</itemPath>
+      <itemPath>alpha M.cpp</itemPath>
+      <itemPath>alpha N.cpp</itemPath>
+      <itemPath>alpha O.cpp</itemPath>
+      <itemPath>alpha P.cpp</itemPath>
+      <itemPath>alpha Q.cpp</itemPath>
+      <itemPath>alpha R.cpp</itemPath>
+      <itemPath>alpha S.cpp</itemPath>
+      <itemPath>alpha T.cpp</itemPath>
+      <itemPath>alpha U.cpp</itemPath>
+      <itemPath>alpha V.cpp</itemPath>
+      <itemPath>alpha W.cpp</itemPath>
+      <itemPath>alpha X.cpp</itemPath>
+      <itemPath>alpha Y.cpp</itemPath>
+      <itemPath>alpha Z.cpp</itemPath>
+      <itemPath>love.cpp</itemPath>
+      <itemPath>main.cpp</itemPath>
+      <itemPath>sample.cpp</itemPath>
+    </logicalFolder>
+    <logicalFolder name="TestFiles"
+                   displayName="Test Files"
+                   projectFiles="false"
+                   kind="TEST_LOGICAL_FOLDER">
+    </logicalFolder>
+    <logicalFolder name="ExternalFiles"
+                   displayName="Important Files"
+                   projectFiles="false"
+                   kind="IMPORTANT_FILES_FOLDER">
+      <itemPath>Makefile</itemPath>
+    </logicalFolder>
+  </logicalFolder>
+  <projectmakefile>Makefile</projectmakefile>
+  <confs>
+    <conf name="Debug" type="1">
+      <toolsSet>
+        <compilerSet>default</compilerSet>
+        <dependencyChecking>true</dependencyChecking>
+        <rebuildPropChanged>false</rebuildPropChanged>
+      </toolsSet>
+      <compileType>
+      </compileType>
+      <item path="alpha A.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="alpha B.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="alpha C.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="alpha D.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="alpha E.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="alpha F.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="alpha G.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="alpha H.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="alpha I.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="alpha J.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="alpha K.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="alpha L.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="alpha M.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="alpha N.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="alpha O.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="alpha P.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="alpha Q.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="alpha R.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="alpha S.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="alpha T.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="alpha U.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="alpha V.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="alpha W.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="alpha X.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="alpha Y.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="alpha Z.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="love.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="main.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="sample.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+    </conf>
+    <conf name="Release" type="1">
+      <toolsSet>
+        <compilerSet>default</compilerSet>
+        <dependencyChecking>true</dependencyChecking>
+        <rebuildPropChanged>false</rebuildPropChanged>
+      </toolsSet>
+      <compileType>
+        <cTool>
+          <developmentMode>5</developmentMode>
+        </cTool>
+        <ccTool>
+          <developmentMode>5</developmentMode>
+        </ccTool>
+        <fortranCompilerTool>
+          <developmentMode>5</developmentMode>
+        </fortranCompilerTool>
+        <asmTool>
+          <developmentMode>5</developmentMode>
+        </asmTool>
+      </compileType>
+      <item path="alpha A.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="alpha B.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="alpha C.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="alpha D.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="alpha E.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="alpha F.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="alpha G.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="alpha H.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="alpha I.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="alpha J.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="alpha K.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="alpha L.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="alpha M.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="alpha N.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="alpha O.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="alpha P.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="alpha Q.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="alpha R.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="alpha S.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="alpha T.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="alpha U.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="alpha V.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="alpha W.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="alpha X.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="alpha Y.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="alpha Z.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="love.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="main.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="sample.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+    </conf>
+  </confs>
+</configurationDescriptor>
